@@ -1,0 +1,14 @@
+ h1
+{
+color:#8a2424 ;
+font-family: "Oswald", sans-serif;
+}
+body {
+background-image: url("пустыня.jpg"); 
+
+    background-size: cover; 
+}
+
+img{
+    width: 450px;
+}

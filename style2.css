@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1
+{
+color:#66836d;
+font-family: "Arsenal SC", sans-serif;
+background-color: #242d26;
+}
+body {
+    background-image: url("333.png"); 
+    background-size: cover ;
+
+
+}
+img{
+    width: 600px;
+}
+
